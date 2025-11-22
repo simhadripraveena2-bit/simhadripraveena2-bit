@@ -11,6 +11,11 @@ I am driven by curiosity and a constant desire to learn, explore, and contribute
 
 ---
 
+## 📰 Publication
+- **Deep Learning-Based Person Identification Using Facial Embeddings and Web Integration** — *Simhadri Praveena*, manuscript submitted to *NetCrypt 2026*.
+
+---
+
 ## 🔍 Research Interests
 My work focuses on leveraging **machine learning, spatio-temporal modeling, and deep learning** to analyze complex, large-scale datasets. I am particularly interested in:
 - Interpretable and scalable AI systems  
@@ -46,6 +51,16 @@ Developed an **emotion recognition mobile application** using CNN + TFLite, achi
 
 ---
 
+## 🎓 Certifications
+- [Python for Machine Learning & Data Science Masterclass — Udemy](https://www.udemy.com/certificate/UC-24a92684-c451-4f00-b148-d7b6ea466e43/)
+- [MEGA Machine Learning in GIS & Remote Sensing: 5 Courses in 1 — Udemy](https://www.udemy.com/certificate/UC-25e724e3-0838-4b17-abb2-49b3985feba7/)
+- [SQL, NoSQL, Big Data and Hadoop — Udemy](https://www.udemy.com/certificate/UC-c75d86ea-c978-4607-9533-7268f004cc2d/)
+- [Introduction to Animation Fundamentals — Simplilearn](https://simpli-web.app.link/e/OWZgCLSTVJb)
+- [Accenture North America Strategy Consulting Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/rMSFymzsPCwMGRun8_Accenture%20North%20America_Au7ri3gt4zP73rikP_1664689143987_completion_certificate.pdf)
+- [JPMorgan Chase Commercial Banking Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/LBJRY9AanBmxGpPTc_JPMorgan%20Chase_Au7ri3gt4zP73rikP_1664863380623_completion_certificate.pdf) 
+
+---
+
 ## 💻 Technical Skills
 | Area | Technologies |
 |------|--------------|
@@ -69,5 +84,6 @@ Developed an **emotion recognition mobile application** using CNN + TFLite, achi
 📌 **Email:** simhadripraveena2@gmail.com  
 
 ---
+
 
 ⭐ _I'm always open to research collaborations and exciting ML/DL projects. Feel free to reach out!_
