@@ -30,7 +30,7 @@ My work focuses on leveraging **machine learning, spatio-temporal modeling, and 
 Built an end-to-end face identification pipeline integrating **deep learning-based facial embeddings and geometric landmark measurements** for improved recognition. Developed a FastAPI backend + Django frontend to enable real-time identity classification.
 
 🔹 **Graph Convolutional Networks for Flood Prediction (IIT Kharagpur)**  
-Designed a **spatio-temporal rainfall + inflow prediction framework** using **HDBSCAN/DBSCAN clustering, dynamic graph construction, and GNNs** (PyTorch Geometric). Improved prediction interpretability by modeling rainfall propagation across regions.
+Built a rainfall-to-inflow prediction framework using spatial rainfall grids + inflow data. Data preprocessing transforms rainfall grid into a structured format; a baseline model (e.g. RandomForest) is used; and a Graph Neural Network (PyTorch Geometric) is implemented to learn spatio-temporal dependencies for inflow prediction. Includes data ingestion, preprocessing, modeling, evaluation — with clustering and graph-based analysis for rainfall events and inflow forecasting.
 
 🔹 **House Price Prediction (Full-stack ML system)**  
 Implemented an **XGBoost regression model** with data preprocessing and feature engineering, deployed using **FastAPI + Django** to provide interactive prediction dashboards.
@@ -87,3 +87,4 @@ Developed an **emotion recognition mobile application** using CNN + TFLite, achi
 
 
 ⭐ _I'm always open to research collaborations and exciting ML/DL projects. Feel free to reach out!_
+
