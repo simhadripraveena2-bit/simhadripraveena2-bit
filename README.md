@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I am a **Machine Learning & Software Engineer** with a Dual Degree (B.Tech (Hons.) + M.Tech) from **IIT Kharagpur**. I enjoy transforming complex datasets into meaningful insights through AI, and building scalable real-world systems powered by machine learning and deep learning.
 
+[Portfolio](https://v0-portfolio-with-anime-aesthetic.vercel.app/)
+
 ---
 
 ## 🌟 About Me
@@ -87,4 +89,5 @@ Developed an **emotion recognition mobile application** using CNN + TFLite, achi
 
 
 ⭐ _I'm always open to research collaborations and exciting ML/DL projects. Feel free to reach out!_
+
 
