@@ -14,7 +14,8 @@ I am driven by curiosity and a constant desire to learn, explore, and contribute
 ---
 
 ## 📰 Publication
-- **Deep Learning-Based Person Identification Using Facial Embeddings and Web Integration** — *Simhadri Praveena*, manuscript submitted to *NetCrypt 2026*.
+- **Robustness Evaluation of Deep Learning-Based Plant Disease Classification under Adversarial and Physical Perturbations.** NetCrypt-26 — 4th International Conference on Networks and Cryptology.[Under Review]
+- **LinguisticRedline: Uncovering Racial Bias in LLM Perceptions of Urban Crime Risk.** NLPercep'26 — Workshop on Centering Social Perception in NLP, co-located with ICWSM'26. Los Angeles, USA. [Under Review]
 
 ---
 
@@ -89,6 +90,7 @@ Developed an **emotion recognition mobile application** using CNN + TFLite, achi
 
 
 ⭐ _I'm always open to research collaborations and exciting ML/DL projects. Feel free to reach out!_
+
 
 
 
