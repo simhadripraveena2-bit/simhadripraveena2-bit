@@ -26,11 +26,9 @@ praveena = {
 
 ## 📰 Publications
 
-> 🎉 **Accepted for Camera-Ready Submission!**
-
 | # | Paper | Venue | Status |
 |---|-------|--------|--------|
-| 1 | **LinguisticRedline: Uncovering Racial Bias in LLM Perceptions of Urban Crime Risk** | NLPercep'26 — Workshop on Centering Social Perception in NLP, co-located with **ICWSM'26**, Los Angeles, USA | ✅ **Accepted — Camera Ready** |
+| 1 | **LinguisticRedline: Uncovering Racial Bias in LLM Perceptions of Urban Crime Risk** | NLPercep'26 — Workshop on Centering Social Perception in NLP, co-located with **ICWSM'26**, Los Angeles, USA | ✅ **Accepted** |
 | 2 | **Robustness Evaluation of Deep Learning-Based Plant Disease Classification under Adversarial and Physical Perturbations** | NetCrypt-26 — 4th International Conference on Networks and Cryptology | 🔄 Under Review |
 
 ---
